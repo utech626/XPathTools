@@ -3,7 +3,7 @@ Download the Pre-Beta Version of VS 20222 version of the XPath Tool Extension in
 
 A Visual Studio Extension which can run any XPath and XPath function; navigates through results at the click of a button. Can show and copy any XPath incl. XML namespaces, avoiding XML namespace induced headaches. Keeps track of the current XPath via the statusbar.
 
-![XPath Tools screenshot.](https://github.com/utech626/XPathTools/wiki/images/PackagePreviewImage.png)
+![XPath Tools screenshot.](https://github.com/utech626/XPathTools/blob/master/ReasonCodeExample.XPathTools/Assets/PackagePreviewImage.png)
 
 ## Installation
 ### Visual Studio
